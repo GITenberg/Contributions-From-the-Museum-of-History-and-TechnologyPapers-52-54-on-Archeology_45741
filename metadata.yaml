@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '43432'
     url: http://www.gutenberg.org/2009/agents/43432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45741#Contributions-From-the-Museum-of-History-and-TechnologyPapers-52-54-on-Archeology
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
