@@ -1,0 +1,48 @@
+_repo: Contributions-From-the-Museum-of-History-and-TechnologyPapers-52-54-on-Archeology_45741
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45741-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Watkins, C. Malcolm
+    gutenberg_agent_id: '38076'
+    url: http://www.gutenberg.org/2009/agents/38076
+  - agent_name: Noël Hume, Ivor
+    aliases:
+    - Hume, Ivor Noël
+    - Noel Hume, Ivor
+    gutenberg_agent_id: '43431'
+    url: http://www.gutenberg.org/2009/agents/43431
+  editor:
+    agent_name: Taylor, Frank A. (Frank Augustus)
+    birthdate: 1903
+    deathdate: 2007
+    gutenberg_agent_id: '43432'
+    url: http://www.gutenberg.org/2009/agents/43432
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Yorktown (Va.) -- Antiquities'
+- !lcsh 'Excavations (Archaeology) -- Virginia -- Yorktown'
+- !lcsh 'Excavations (Archaeology) -- Virginia -- Gloucester County'
+- !lcsh 'James City County (Va.) -- Antiquities'
+- !lcsh 'Gloucester County (Va.) -- Antiquities'
+- !lcsh 'Excavations (Archaeology) -- Virginia -- James City County'
+- !lcsh 'Archaeology'
+- !lcc 'CC'
+tableOfContents: 'Excavations at Clay Bank in Gloucester County, Virginia, 1962-1963,
+  by Ivor Noël Hume -- Excavations at Tutter''s Neck in James City County, Virginia,
+  1960-1961, by Ivor Noël Hume -- The "Poor potter" of Yorktown, pt. I: Documentary
+  record, by C. Malcolm Watkins; pt. II: Pottery evidence, by Ivor Noël Hume.'
+title: "Smithsonian Institution - United States National Museum - Bulletin 249\r\n\
+  Contributions from the Museum of History and Technology\r\nPapers 52-54 on Archeology"
+url: http://www.gutenberg.org/ebooks/45741
